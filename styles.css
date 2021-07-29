@@ -4,5 +4,9 @@ body{
   font-family: poppins;
 }
 .home{
-  
+  background-image: back.jpg;
+  -webkit-background-size:cover;
+  height: 100vh;
+}
+
 }
